@@ -1,0 +1,26 @@
+{
+  "name": "stylelint-selector-last-no-trailing-comma",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdruide/stylelint-selector-last-no-trailing-comma.git"
+  },
+  "author": "fdruide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdruide/stylelint-selector-last-no-trailing-comma/issues"
+  },
+  "homepage": "https://github.com/fdruide/stylelint-selector-last-no-trailing-comma#readme",
+  "dependencies": {
+    "stylelint": "^8.4.0",
+    "stylelint-test-rule-tape": "^0.2.0"
+  }
+}
